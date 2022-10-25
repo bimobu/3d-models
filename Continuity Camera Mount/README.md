@@ -8,10 +8,10 @@ You can load the FCStd file in FreeCAD and change the parameters in the spreadsh
 
 These are the parameters you can edit:
 
-WT: Wall Thickness
-PT: Phone Thickness
-SD: Step Difference
-CSWH: Camera Side Wall Height
-DSWH Display Side Wall Height
-W: Width
-CR: Curve Radius
+- WT: Wall Thickness
+- PT: Phone Thickness
+- SD: Step Difference
+- CSWH: Camera Side Wall Height
+- DSWH Display Side Wall Height
+- W: Width
+- CR: Curve Radius
